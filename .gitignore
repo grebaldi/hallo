@@ -6,3 +6,5 @@ _site/
 dist/hallo-min.js
 bower_components/
 .DS_Store
+
+.project
